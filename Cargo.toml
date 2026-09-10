@@ -1,0 +1,10 @@
+[package]
+name = "lc3-scratch"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.93.0" # Prevents compilation on older toolchains lacking security patches
+description = "A LC-3 VM from scratch"
+publish = false # Prevents accidental leaks to public registries like crates.io
+
+[dependencies]
+libc = "0.2.189"
