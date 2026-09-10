@@ -9,3 +9,7 @@ I want to understand this from first principles questioning the decision made an
 
 ---
 
+How does this work?
+
+<video src="./assets/demo.mov" controls width="100%"></video>
+
